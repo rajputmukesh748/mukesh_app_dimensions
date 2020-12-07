@@ -1,3 +1,4 @@
+include ':mukeshAppDimension'
 include ':app:mukeshDimentions'
 include ':app'
 rootProject.name = "MukeshAppDimentions"
